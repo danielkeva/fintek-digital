@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fintek-digital/static/css/main.6a06e934.chunk.css",
+    "main.js": "/fintek-digital/static/js/main.9d7cd38b.chunk.js",
+    "main.js.map": "/fintek-digital/static/js/main.9d7cd38b.chunk.js.map",
+    "runtime-main.js": "/fintek-digital/static/js/runtime-main.774b1e0d.js",
+    "runtime-main.js.map": "/fintek-digital/static/js/runtime-main.774b1e0d.js.map",
+    "static/js/2.3fe500ca.chunk.js": "/fintek-digital/static/js/2.3fe500ca.chunk.js",
+    "static/js/2.3fe500ca.chunk.js.map": "/fintek-digital/static/js/2.3fe500ca.chunk.js.map",
+    "index.html": "/fintek-digital/index.html",
+    "precache-manifest.9fe96e9858e28c4f9d381af96ecf31c3.js": "/fintek-digital/precache-manifest.9fe96e9858e28c4f9d381af96ecf31c3.js",
+    "service-worker.js": "/fintek-digital/service-worker.js",
+    "static/css/main.6a06e934.chunk.css.map": "/fintek-digital/static/css/main.6a06e934.chunk.css.map",
+    "static/js/2.3fe500ca.chunk.js.LICENSE.txt": "/fintek-digital/static/js/2.3fe500ca.chunk.js.LICENSE.txt",
+    "static/media/global.scss": "/fintek-digital/static/media/Roboto-Regular.11eabca2.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.774b1e0d.js",
+    "static/js/2.3fe500ca.chunk.js",
+    "static/css/main.6a06e934.chunk.css",
+    "static/js/main.9d7cd38b.chunk.js"
+  ]
+}
