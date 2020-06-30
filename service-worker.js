@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/fintek-digital/precache-manifest.9fe96e9858e28c4f9d381af96ecf31c3.js"
+  "/fintek-digital/precache-manifest.bafafee4f3a498bada267c6c2c3d78e2.js"
 );
 
 self.addEventListener('message', (event) => {

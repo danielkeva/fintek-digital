@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fa37aee43e76edc213f3c63be721c274",
+    "revision": "e2ef57a3737cc37ebb56b18b641433fb",
     "url": "/fintek-digital/index.html"
   },
   {
-    "revision": "a25743685aba1ad8e7e6",
-    "url": "/fintek-digital/static/css/main.6a06e934.chunk.css"
+    "revision": "3ef1eccef09d489d43ef",
+    "url": "/fintek-digital/static/css/main.ed287803.chunk.css"
   },
   {
     "revision": "71710cd46ce488b151b7",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fintek-digital/static/js/2.3fe500ca.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a25743685aba1ad8e7e6",
+    "revision": "3ef1eccef09d489d43ef",
     "url": "/fintek-digital/static/js/main.9d7cd38b.chunk.js"
   },
   {
