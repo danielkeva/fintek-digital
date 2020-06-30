@@ -36,11 +36,17 @@
         }
     }
 }
-@media only screen and (max-width: 1300px) {
+@media only screen and (max-width: 1470px) {
+    .home-page {
+        max-width: 1300px;
+    }
+}
+@media only screen and (max-width: 1280px) {
     .home-page {
         max-width: 1100px;
     }
 }
+
 @media only screen and (max-width: 900px) {
     .about-us {
         flex-direction: column;
